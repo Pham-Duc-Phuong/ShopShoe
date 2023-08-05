@@ -1,0 +1,11 @@
+.carts{
+    position: fixed;
+    right: 0;
+    top:30vh;
+}
+.App{
+    background-image: url(../public/6931790_30132.jpg);
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
